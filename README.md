@@ -84,4 +84,4 @@ Topics include:
 ---
 
 - GitHub: https://github.com/MelikaRahimpour
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/melika-rahimpour-393893336
